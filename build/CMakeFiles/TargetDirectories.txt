@@ -1,0 +1,3 @@
+/home/tolga/Documents/Cpp-Chatbot/build/CMakeFiles/membot.dir
+/home/tolga/Documents/Cpp-Chatbot/build/CMakeFiles/edit_cache.dir
+/home/tolga/Documents/Cpp-Chatbot/build/CMakeFiles/rebuild_cache.dir
